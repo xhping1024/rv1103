@@ -1,0 +1,5 @@
+config OLED
+    tristate "old driver"
+    help
+        oled driver.
+    default y

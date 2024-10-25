@@ -1,0 +1,9 @@
+menuconfig CUSTOM_DRIVERS
+    tristate "Custom Drivers"
+
+if CUSTOM_DRIVERS
+
+source "drivers/customDrivers/oled/Kconfig"
+
+endif
+
