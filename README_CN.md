@@ -1,3 +1,4 @@
+2024/10/26 rv1103 SDK for xhp
 ![luckfox](https://github.com/LuckfoxTECH/luckfox-pico/assets/144299491/cec5c4a5-22b9-4a9a-abb1-704b11651e88)
 # Luckfox Pico SDK
 [English Version](./README.md)
