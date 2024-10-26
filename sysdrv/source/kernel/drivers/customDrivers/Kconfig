@@ -1,6 +1,7 @@
 menuconfig CUSTOM_DRIVERS
     tristate "Custom Drivers"
-
+    default y
+    
 if CUSTOM_DRIVERS
 
 source "drivers/customDrivers/oled/Kconfig"

@@ -1,1 +1,1 @@
-obj-$(CONFIG_OLED) +=  oled.o 
+obj-$(CONFIG_OLED) += oled_spi.o
